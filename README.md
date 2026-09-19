@@ -1,290 +1,385 @@
+<div align="center">
+
 # ☕ Java & Object-Oriented Programming
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOP-Object%20Oriented-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSA-Learning-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Learning-yellow?style=for-the-badge" />
+### 🚀 My Journey of Learning Java & Mastering OOP
+
+<p>
+<img src="https://img.shields.io/badge/☕_JAVA-Programming-18181B?style=for-the-badge">
+<img src="https://img.shields.io/badge/💻_PROGRAMMING-FF6B35?style=for-the-badge">
+<img src="https://img.shields.io/badge/🧱_OOP-5B4BDB?style=for-the-badge">
+<img src="https://img.shields.io/badge/🔷_OBJECT_ORIENTED-087EA4?style=for-the-badge">
+<img src="https://img.shields.io/badge/📊_DSA-2E7D32?style=for-the-badge">
+<img src="https://img.shields.io/badge/📚_LEARNING-F4B400?style=for-the-badge">
+<img src="https://img.shields.io/badge/⚡_STATUS-LEARNING-DB2777?style=for-the-badge">
 </p>
 
-<p align="center">
-  <b>🚀 My journey of learning Java and mastering Object-Oriented Programming</b>
-</p>
+<br>
+
+> 🚀 **Learn • Practice • Build • Improve**
+
+</div>
 
 ---
 
-## 📌 About This Repository
+<div align="center">
 
-Welcome to my **Java & Object-Oriented Programming** repository! ☕
+## 👋 Hello, Developer!
 
-This repository contains my notes, practice programs, concepts, and problem-solving exercises while learning **Java Programming** and **Object-Oriented Programming (OOP)**.
+### **Code Today.**
+### **Build a Better Tomorrow.**
 
-The main goal of this repository is to build a strong foundation in Java and gradually improve my programming and problem-solving skills.
+☕ Learning Java, one concept at a time.
 
-> 💡 **Learn → Practice → Build → Improve**
-
----
-
-## 🎯 Learning Goals
-
-* ☕ Learn Java from fundamentals to advanced concepts
-* 🧱 Understand Object-Oriented Programming deeply
-* 🧠 Improve logical and problem-solving skills
-* 💻 Practice writing clean and readable Java code
-* 📚 Learn important Java concepts for academics and interviews
-* 🧩 Solve programming problems using Java
-* 🚀 Build projects using Java
-* 📈 Prepare for DSA and technical interviews
-
----
-
-# 📚 Topics Covered
-
-## 🟢 Java Fundamentals
-
-* Introduction to Java
-* JDK, JRE & JVM
-* Variables & Data Types
-* Type Casting
-* Operators
-* Input & Output
-* Conditional Statements
-
-  * `if`
-  * `if-else`
-  * `switch`
-* Loops
-
-  * `for`
-  * `while`
-  * `do-while`
-* Break & Continue
-* Methods
-* Arrays
-* Strings
-
----
-
-## 🔵 Object-Oriented Programming
-
-### 🧱 Core OOP Concepts
-
-* Classes & Objects
-* Constructors
-* `this` Keyword
-* Static Members
-* Encapsulation
-* Inheritance
-* Polymorphism
-* Abstraction
-* Interfaces
-
-### 🔗 Advanced OOP Concepts
-
-* Method Overloading
-* Method Overriding
-* Constructor Overloading
-* `super` Keyword
-* Access Modifiers
-* Abstract Classes
-* Interfaces
-* Packages
-* Association
-* Aggregation
-* Composition
-
----
-
-## 🟣 Exception Handling
-
-* Exception Basics
-* `try`
-* `catch`
-* `finally`
-* `throw`
-* `throws`
-* Multiple Catch Blocks
-* Custom Exceptions
-
----
-
-## 🟠 Java Collections
-
-* ArrayList
-* LinkedList
-* HashSet
-* TreeSet
-* HashMap
-* TreeMap
-* Iterator
-* Comparable
-* Comparator
-
----
-
-## 🔴 Important Java Concepts
-
-* String vs StringBuilder vs StringBuffer
-* Wrapper Classes
-* Autoboxing & Unboxing
-* `final` Keyword
-* Garbage Collection
-* Memory Management
-* Packages
-* Enums
-* Generics
-* Lambda Expressions
-* Stream API
-
----
-
-
-# 🧠 OOP at a Glance
+<br>
 
 ```text
-                    OBJECT-ORIENTED PROGRAMMING
-                              │
-          ┌───────────────────┼───────────────────┐
-          │                   │                   │
-    Encapsulation       Inheritance         Polymorphism
-          │                   │                   │
-          └───────────────────┼───────────────────┘
-                              │
-                         Abstraction
+        ☕ WRITE JAVA
+             │
+             ▼
+       🧱 THINK IN OOP
+             │
+             ▼
+        🧠 SOLVE PROBLEMS
+             │
+             ▼
+        🚀 BUILD PROJECTS
+             │
+             ▼
+       📈 BECOME BETTER
 ```
+
+</div>
+
+---
+
+# 🌟 About This Repository
+
+This repository represents my **Java & Object-Oriented Programming learning journey**.
+
+Here I document everything I learn while building a strong foundation in:
+
+- ☕ Java Programming
+- 🧱 Object-Oriented Programming
+- 🧠 Problem Solving
+- 📊 Data Structures & Algorithms
+- 🛠️ Practical Java Development
+- 🚀 Java-based Projects
+
+> 💡 **The goal isn't just to write code — it's to understand how and why the code works.**
+
+---
+
+# 🎯 Learning Goals
+
+<div align="center">
+
+| 🎯 Goal | 📌 Focus |
+|:---:|:---|
+| ☕ | Master Java fundamentals |
+| 🧱 | Understand OOP deeply |
+| 🧠 | Improve logical thinking |
+| 💻 | Write clean & readable code |
+| 📊 | Prepare for DSA |
+| 🚀 | Build Java projects |
+| 🎯 | Prepare for technical interviews |
+
+</div>
+
+---
+
+# 🧩 Core Concepts
+
+```text
+                         ☕ JAVA
+                           │
+        ┌──────────────────┼──────────────────┐
+        │                  │                  │
+        ▼                  ▼                  ▼
+  FUNDAMENTALS            OOP                 DSA
+        │                  │                  │
+        │          ┌───────┼───────┐          │
+        │          │       │       │          │
+        ▼          ▼       ▼       ▼          ▼
+     Syntax    Encapsulation  Inheritance  Algorithms
+     Arrays    Abstraction    Polymorphism Structures
+     Loops     Classes        Interfaces   Problems
+     Methods   Objects        Overloading
+```
+
+---
+
+# 📚 Topics I'm Learning
+
+## ☕ Java Fundamentals
+
+- Variables & Data Types
+- Operators
+- Input & Output
+- Conditional Statements
+- Loops
+- Methods
+- Arrays
+- Strings
+- Type Casting
+- Packages
+
+---
+
+## 🧱 Object-Oriented Programming
 
 ### 🔐 Encapsulation
 
-Bundling data and methods together while controlling access to the data.
+Wrapping data and methods together while controlling access.
 
 ### 🧬 Inheritance
 
-Allows one class to acquire properties and behavior from another class.
+Acquiring properties and behavior from another class.
 
 ### 🎭 Polymorphism
 
-One interface/method can have multiple forms.
+One interface, multiple forms.
 
 ### 🎨 Abstraction
 
-Hiding implementation details and exposing only essential functionality.
+Hiding implementation details and exposing essential functionality.
+
+### 📦 Classes & Objects
+
+### 🏗️ Constructors
+
+### 🔄 Method Overloading
+
+### 🔁 Method Overriding
+
+### 🔑 `this` & `super`
+
+### 🔒 Access Modifiers
+
+### 🧩 Interfaces
+
+### 🏛️ Abstract Classes
 
 ---
 
-# 💻 Practice Programs
+# 🛠️ Java Concepts
 
-This repository will contain programs such as:
-
-* 🔢 Calculator
-* 🔢 Prime Number Checker
-* 🔄 Palindrome Checker
-* 🔢 Fibonacci Series
-* 🔍 Searching Algorithms
-* 📊 Sorting Algorithms
-* 🧮 Matrix Operations
-* 🏦 Banking System
-* 👨‍🎓 Student Management System
-* 🛒 Simple Shopping System
-* 📚 Library Management System
-
----
-
-# 🛠️ Tools & Technologies
-
-| Technology                 | Purpose                    |
-| -------------------------- | -------------------------- |
-| ☕ Java                     | Programming Language       |
-| 🧱 OOP                     | Programming Paradigm       |
-| 💻 VS Code / IntelliJ IDEA | Development                |
-| 🔥 Git                     | Version Control            |
-| 🐙 GitHub                  | Repository & Collaboration |
+- Exception Handling
+- `try-catch-finally`
+- `throw` & `throws`
+- Custom Exceptions
+- Collections Framework
+- ArrayList
+- LinkedList
+- HashSet
+- HashMap
+- TreeSet
+- TreeMap
+- Generics
+- Wrapper Classes
+- StringBuilder
+- StringBuffer
+- `final` Keyword
+- Lambda Expressions
+- Stream API
 
 ---
 
 
----
-
-# 🎯 Future Plans
-
-```text
-Java Fundamentals
-       ↓
-Object-Oriented Programming
-       ↓
-Exception Handling
-       ↓
-Collections Framework
-       ↓
-Advanced Java
-       ↓
-Data Structures & Algorithms
-       ↓
-Java Projects
-       ↓
-Backend Development
-```
 
 ---
 
-# 📊 Learning Philosophy
+# 📈 Learning Progress
 
-> **"Don't just learn the syntax. Understand why the code works."**
+<div align="center">
 
-My focus is not only on completing programs but also on understanding:
+| 📚 Area | Progress |
+|:---|:---:|
+| ☕ Java Fundamentals | 🟢🟢🟢🟢⚪ 80% |
+| 🧱 OOP | 🟢🟢🟢⚪⚪ 70% |
+| 📊 DSA | 🟢🟢⚪⚪⚪ 50% |
+| 🚀 Projects | 🟢🟢⚪⚪⚪ 35% |
 
-* 🔍 How the code works
-* 🧠 Why a particular approach is used
-* ⚡ Time and space complexity
-* 🏗️ How OOP concepts are applied in real applications
-* 🧹 How to write clean and maintainable code
+</div>
+
+> 🚧 Progress will be updated as I continue learning.
+
+---
+
+# 🧪 Practice Programs
+
+| 🔢 Category | 💻 Programs |
+|:---|:---|
+| 🔢 Numbers | Prime, Factorial, Fibonacci |
+| 🔄 Strings | Palindrome, Reverse, Anagram |
+| 📊 Arrays | Search, Sort, Maximum / Minimum |
+| 🧮 Mathematics | Calculator, Matrix Operations |
+| 🧱 OOP | Classes, Inheritance, Polymorphism |
+| 📦 Collections | ArrayList, HashMap, HashSet |
+| 🚨 Exceptions | Custom Exception Programs |
+| 📊 DSA | Stack, Queue, Linked List, Trees |
 
 ---
 
 # 🚀 Projects
 
-As I progress, I will add Java-based projects to this repository.
+## 🏦 Banking Management System
 
-### Planned Projects
+A Java-based console application demonstrating:
 
-* 👨‍🎓 Student Management System
-* 🏦 Banking Management System
-* 📚 Library Management System
-* 🛒 Console-Based Shopping System
-* 🏨 Hotel Management System
-* 🎓 College Management System
-
----
-
-# 🤝 Contributions
-
-This repository is primarily my personal learning space.
-
-However, suggestions, improvements, and interesting Java problems are always welcome! 🚀
+- Classes & Objects
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Exception Handling
 
 ---
 
-# 📬 Connect With Me
+## 👨‍🎓 Student Management System
 
-<p align="center">
+Planned features:
 
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
+- ➕ Add Student
+- 🗑️ Delete Student
+- 🔍 Search Student
+- ✏️ Update Student
+- 📋 Display Student Records
 
 ---
 
-<p align="center">
-  ☕ <b>Learning Java one program at a time.</b>
-  <br>
-  ⭐ If you find this repository useful, consider giving it a star!
-</p>
+## 📚 Library Management System
 
-<p align="center">
-  <b>Made with ☕ + 💻 + 🧠</b>
-</p>
+Planned features:
+
+- 📖 Add Books
+- 👨‍🎓 Register Students
+- 🔍 Search Books
+- 📤 Issue Books
+- 📥 Return Books
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,vscode,idea,git,github" />
+
+</div>
+
+<br>
+
+| 🛠️ Tool | 🎯 Purpose |
+|:---|:---|
+| ☕ Java | Programming |
+| 💻 VS Code | Development |
+| 🧠 IntelliJ IDEA | Java Development |
+| 🔥 Git | Version Control |
+| 🐙 GitHub | Repository Management |
+
+---
+
+# 🧠 Learning Philosophy
+
+<div align="center">
+
+### ❝ Don't just learn the syntax.
+
+### Understand **why the code works.** ❞
+
+<br>
+
+**Learn → Practice → Fail → Debug → Improve → Repeat**
+
+</div>
+
+---
+
+# 🗺️ Learning Roadmap
+
+```text
+                    ☕ JAVA
+                      │
+                      ▼
+             ┌─────────────────┐
+             │ Java Fundamentals│
+             └────────┬────────┘
+                      │
+                      ▼
+             ┌─────────────────┐
+             │       OOP       │
+             └────────┬────────┘
+                      │
+                      ▼
+             ┌─────────────────┐
+             │ Exception Handle│
+             └────────┬────────┘
+                      │
+                      ▼
+             ┌─────────────────┐
+             │   Collections   │
+             └────────┬────────┘
+                      │
+                      ▼
+             ┌─────────────────┐
+             │      DSA        │
+             └────────┬────────┘
+                      │
+                      ▼
+             ┌─────────────────┐
+             │ Java Projects   │
+             └────────┬────────┘
+                      │
+                      ▼
+             ┌─────────────────┐
+             │ Backend / Spring │
+             └─────────────────┘
+```
+
+---
+
+# 🌱 What's Next?
+
+```text
+☑ Learn Java Basics
+☑ Understand Classes & Objects
+☑ Learn OOP
+☐ Master Collections
+☐ Master DSA
+☐ Build Real Projects
+☐ Learn Spring Boot
+☐ Build Backend Applications
+☐ Become Job Ready 🚀
+```
+
+---
+
+# ⭐ Support
+
+If you find this repository useful:
+
+⭐ **Star the repository**
+
+🍴 **Fork it**
+
+💡 **Share ideas**
+
+🐛 **Report issues**
+
+---
+
+<div align="center">
+
+## ☕ Keep Coding. Keep Learning. Keep Growing.
+
+### 🚀 One Program At A Time.
+
+<br>
+
+**Made with ❤️ by Toufik Hasan**
+
+<br>
+
+`Java` • `OOP` • `DSA` • `Problem Solving` • `Projects`
+
+</div>
