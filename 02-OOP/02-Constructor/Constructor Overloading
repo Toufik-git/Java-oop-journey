@@ -1,0 +1,14 @@
+class Student {
+
+    Student(int id, String name, int m1, int m2, int m3) {
+        ...
+    }
+
+    Student(int id, String name) {
+        this.id = id;
+        this.name = name;
+        this.m1 = 0;
+        this.m2 = 0;
+        this.m3 = 0;
+    }
+}
